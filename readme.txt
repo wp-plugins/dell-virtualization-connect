@@ -5,7 +5,7 @@ Requires at least: 3.0
 Tested up to: 3.3
 Stable tag: 0.2.1
 
-Cloud Connect is a widget/plugin that helps connect cloud computing blogs around the World.
+Virtualization Connect is a widget/plugin that helps connect cloud computing blogs around the World.
 
 == Description ==
 
